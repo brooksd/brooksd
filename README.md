@@ -9,8 +9,8 @@
 **brooksd/brooksd** is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvo254&show_icons=true&theme=codeSTACKr)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvo254&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brooksd&show_icons=true&theme=codeSTACKr)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brooksd&theme=dark)](https://git.io/streak-stats)
 <!--
 **brooksd/brooksd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
