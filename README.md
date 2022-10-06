@@ -1,3 +1,23 @@
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250" height="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/DennisMwangi01">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brooksd&style=flat-square&color=blue" alt="" height="20"/>
+</div>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/LuVMhu0a2B1Go/giphy.gif" width="150"/>
+</h1>
 ### Hi there 👋
 
 - :wave: Hi, I'm Donald Brooks => @brooksd
