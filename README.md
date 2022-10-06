@@ -15,10 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=brooksd&style=flat-square&color=blue" alt="" height="20"/>
 </div>
 <h1>
-  Hey there
   <img src="https://media.giphy.com/media/LuVMhu0a2B1Go/giphy.gif" width="150"/>
 </h1>
-### Hi there 👋
+
+## Hi there 👋
 
 - :wave: Hi, I'm Donald Brooks => @brooksd
 - :eyes: I'm interested in Python programming, AWS, and DevSecOps 
