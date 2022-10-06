@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250" height="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/brooksdonald/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/DennisMwangi01">
+  <a href="https://twitter.com/thekenyansaint">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -31,6 +31,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brooksd&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brooksd&theme=dark)](https://git.io/streak-stats)
+<!--
+--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brooksd/brooksd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
