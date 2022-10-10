@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brooksd&theme=dark)](https://git.io/streak-stats)
 <!--
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooksd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brooksd/brooksd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
