@@ -25,12 +25,7 @@
 - :seedling: I'm currently learning Ruby on Rails & Python programming.
 - :revolving_hearts:️ I'm looking to collaborate on any interesting projects.
 - :mailbox: How to reach me email brooksd079@gmail.com
-<!---
-**brooksd/brooksd** is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brooksd&show_icons=true&theme=codeSTACKr)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brooksd&theme=dark)](https://git.io/streak-stats)
+
 <!--
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooksd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
