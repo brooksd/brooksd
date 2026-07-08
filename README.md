@@ -24,7 +24,6 @@
 - :eyes: I'm interested in Python programming, AWS, and DevSecOps 
 - :seedling: I'm currently learning Ruby on Rails & Python programming.
 - :revolving_hearts:️ I'm looking to collaborate on any interesting projects.
-- :mailbox: How to reach me email brooksd079@gmail.com
 
 <!--
 --->
